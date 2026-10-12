@@ -2,7 +2,7 @@
 
 **Princeton University · B.S.E. in Operations Research & Financial Engineering · Expected May 2030**
 
-I build interactive web applications and practical tools, from campus games to academic planning software. I'm interested in **software engineering, quantitative finance, and turning real-world problems into working applications**.
+I'm an Egyptian-born immigrant and first-generation college student studying Operations Research & Financial Engineering at Princeton. I build interactive web applications and practical tools, from campus games to academic planning software. I'm interested in **software engineering, quantitative finance, and turning real-world problems into working applications**.
 
 ## Featured project
 
