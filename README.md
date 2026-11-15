@@ -19,7 +19,7 @@ My contributions span gameplay, backend development, and interactive UI:
 
 **Stack:** TypeScript, React, Next.js, PostgreSQL, Prisma, Tailwind CSS, CSS Modules, and Vitest.
 
-[Play Tiger Games](https://princeton.games) · [My development fork](https://github.com/lsj3l/princeton-geoguessr) · [UI feature branch](https://github.com/lsj3l/princeton-geoguessr/tree/ui-changes) · [Original repository](https://github.com/angelofernand0/princeton-geoguessr)
+[Play Princeton Games](https://princeton.games) · [My development fork](https://github.com/lsj3l/princeton-geoguessr) · [UI feature branch](https://github.com/lsj3l/princeton-geoguessr/tree/ui-changes) · [Original repository](https://github.com/angelofernand0/princeton-geoguessr)
 
 *The original repository belongs to Angelo; the platform is a team effort. Source access is restricted.*
 
