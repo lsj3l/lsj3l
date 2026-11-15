@@ -6,7 +6,7 @@ I'm an Egyptian-born immigrant and first-generation college student studying Ope
 
 ## Featured project
 
-### [Tiger Games](https://princeton.games) — Co-Founder & Software Developer
+### [Princeton Games](https://princeton.games) — Co-Founder & Software Developer
 
 A Princeton-focused gaming platform, publicly branded as **Princeton Games**, built collaboratively with Angelo Fernando, Ben Morales, and Latif Tabanli.
 
