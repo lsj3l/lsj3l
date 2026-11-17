@@ -4,7 +4,7 @@
 
 **Princeton University** · B.S.E. in Operations Research & Financial Engineering · *Class of 2030*  
 
-[LinkedIn](https://www.linkedin.com/in/johnsaleh08/) · [GitHub](https://github.com/lsj3l) · [Email](mailto:johnsaleh0727@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/johnsaleh08/) · [Email](mailto:johnsaleh0727@gmail.com)
 
 </div>
 
