@@ -33,9 +33,9 @@ Whether building computer vision systems that filter real-time physical human ki
       </ul>
       <p><b>Stack:</b> Python, TypeScript, MediaPipe, Web Audio API, Web Serial, React, Next.js</p>
       <p>
-        <a href="https://omniriff.vercel.app/">🔗 Live Demo</a> · 
-        <a href="https://github.com/angelofernand0/omniriff">💻 Source Code</a> · 
-        <a href="https://devpost.com/software/omniriff">🏆 Devpost</a>
+        <a href="https://omniriff.vercel.app/"> Live Demo</a> · 
+        <a href="https://github.com/angelofernand0/omniriff"> Source Code</a> · 
+        <a href="https://devpost.com/software/omniriff"> Devpost</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -49,8 +49,8 @@ Whether building computer vision systems that filter real-time physical human ki
       </ul>
       <p><b>Stack:</b> TypeScript, React, Next.js, PostgreSQL, Prisma, Tailwind CSS, Vitest</p>
       <p>
-        <a href="https://princeton.games">🔗 Live Platform</a> · 
-        <a href="https://github.com/lsj3l/princeton-geoguessr">💻 Development Fork</a>
+        <a href="https://princeton.games"> Live Platform</a> · 
+        <a href="https://github.com/lsj3l/princeton-geoguessr"> Development Fork</a>
       </p>
     </td>
   </tr>
@@ -66,8 +66,8 @@ Whether building computer vision systems that filter real-time physical human ki
       </ul>
       <p><b>Stack:</b> Python, Flask, PyMuPDF, Google Gemini API, Pillow, Vercel</p>
       <p>
-        <a href="https://auto-annotator-lyart.vercel.app/">🔗 Live Demo</a> · 
-        <a href="https://github.com/lsj3l/auto-annotator">💻 Source Code</a>
+        <a href="https://auto-annotator-lyart.vercel.app/"> Live Demo</a> · 
+        <a href="https://github.com/lsj3l/auto-annotator"> Source Code</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -81,8 +81,8 @@ Whether building computer vision systems that filter real-time physical human ki
       </ul>
       <p><b>Stack:</b> React 19, Vite, JavaScript, Tailwind CSS v4, Lucide Icons</p>
       <p>
-        <a href="https://princeton-gpa.vercel.app/">🔗 Live Demo</a> · 
-        <a href="https://github.com/lsj3l/princeton-gpa">💻 Source Code</a>
+        <a href="https://princeton-gpa.vercel.app/"> Live Demo</a> · 
+        <a href="https://github.com/lsj3l/princeton-gpa"> Source Code</a>
       </p>
     </td>
   </tr>
@@ -90,7 +90,7 @@ Whether building computer vision systems that filter real-time physical human ki
 
 ---
 
-## 🛠️ Technical Toolkit
+##  Technical Toolkit
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -102,7 +102,7 @@ Whether building computer vision systems that filter real-time physical human ki
 
 ---
 
-## 🎓 Education & Background
+##  Education & Background
 
 - **Princeton University (B.S.E. Expected May 2030):** Operations Research & Financial Engineering (ORFE)
   - *Relevant Coursework:* Multivariable Calculus (MAT 201), General Computer Science (COS 126), General Physics: Mechanics (PHY 103), Freshman Seminar (FRS 105)
