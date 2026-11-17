@@ -3,7 +3,6 @@
 # John Saleh
 
 **Princeton University** · B.S.E. in Operations Research & Financial Engineering · *Class of 2030*  
-First-generation college student building software at the intersection of quantitative modeling, full-stack web, and computer vision.
 
 [LinkedIn](https://www.linkedin.com/in/johnsaleh08/) · [GitHub](https://github.com/lsj3l) · [Email](mailto:johnsaleh0727@gmail.com)
 
