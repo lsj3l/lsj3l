@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am an undergraduate student studying **Operations Research & Financial Engineering (ORFE)** at Princeton University. My technical focus bridges mathematical optimization, quantitative finance, and low-latency interactive software. 
 
@@ -18,12 +18,12 @@ Whether building computer vision systems that filter real-time physical human ki
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎸 <a href="https://omniriff.vercel.app/">OmniRiff</a></h3>
+      <h3> <a href="https://omniriff.vercel.app/">OmniRiff</a></h3>
       <p><b>HackPrinceton 2026 — Entertainment/Media Track Finalist (Top 3 of 330+ projects)</b></p>
       <p>An AI-powered guitar practice platform combining real-time DSP effects, 30-second loop recording, and webcam gesture controls.</p>
       <ul>
@@ -39,7 +39,7 @@ Whether building computer vision systems that filter real-time physical human ki
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🐯 <a href="https://princeton.games">Princeton Games</a></h3>
+      <h3> <a href="https://princeton.games">Princeton Games</a></h3>
       <p><b>Co-Founder & Software Developer</b></p>
       <p>A full-stack campus gaming and exploration platform featuring historical timeline puzzles, location guessing, and daily challenges.</p>
       <ul>
@@ -56,7 +56,7 @@ Whether building computer vision systems that filter real-time physical human ki
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📝 <a href="https://auto-annotator-lyart.vercel.app/">Auto Annotator</a></h3>
+      <h3> <a href="https://auto-annotator-lyart.vercel.app/">Auto Annotator</a></h3>
       <p><b>Creator & Independent Developer</b></p>
       <p>A Python & Flask application transforming digital PDF readings into print-ready documents with realistic handwritten margin notes.</p>
       <ul>
@@ -71,7 +71,7 @@ Whether building computer vision systems that filter real-time physical human ki
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://princeton-gpa.vercel.app/">Princeton GPA Calculator</a></h3>
+      <h3> <a href="https://princeton-gpa.vercel.app/">Princeton GPA Calculator</a></h3>
       <p><b>Creator & Independent Developer</b></p>
       <p>A responsive academic planning and projection web application designed specifically for Princeton University undergraduates.</p>
       <ul>
